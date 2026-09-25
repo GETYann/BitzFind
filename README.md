@@ -16,6 +16,20 @@ Ecrite en Rust et multithread. Elle permet de faire des recherche ultra rapide d
 Français : 
 <img width="1907" height="1012" alt="Capture d&#39;écran 2026-09-25 121246" src="https://github.com/user-attachments/assets/ccbdc17f-4937-435e-a536-afee508320d1" />
 
+The application is called BitzFind:
+
+It is written in Rust and is multithreaded. It enables ultra-fast file searches:
+
+Search by filename pattern (e.g., *.zip, *.jpg, etc.)
+
+Search by specific filename (e.g., Rapport_statistique.doc or Facture_client_*.doc)
+
+Includes filtering options such as exact match, case sensitivity, file size, date, and location(s)
+
+The application is available in 7 languages: EN, FR, DE, IT, PT, ES, and RU
+
+It is portable; no installation is required.
+
 English : 
 <img width="1917" height="1012" alt="Capture d&#39;écran 2026-09-25 121318" src="https://github.com/user-attachments/assets/42abafb3-5ecd-4e74-9c36-53db0222b10e" />
 
