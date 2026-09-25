@@ -1,7 +1,6 @@
 
-<img width="256" height="256" alt="BitzFind_logo" src="https://github.com/user-attachments/assets/0efb2d9c-c872-4657-a9e9-9fa26d3c7d78" />
-
-
+<p style="text-align: center;"> <img width="256" height="256" alt="BitzFind_logo" src="https://github.com/user-attachments/assets/0efb2d9c-c872-4657-a9e9-9fa26d3c7d78"> 
+</p>
 L'application s'appelle BitzFind :
 
 Ecrite en Rust et multithread. Elle permet de faire des recherche ultra rapide dans vos fichiers : 
