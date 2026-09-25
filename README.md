@@ -13,7 +13,8 @@ Ecrite en Rust et multithread. Elle permet de faire des recherche ultra rapide d
 - Elle est portable, pas d'installation necessaire. 
 
 Français : 
-<img width="1907" height="1012" alt="Capture d&#39;écran 2026-09-25 121246" src="https://github.com/user-attachments/assets/ccbdc17f-4937-435e-a536-afee508320d1" />
+<img width="1912" height="1016" alt="Capture d&#39;écran 2026-09-25 143427" src="https://github.com/user-attachments/assets/d06f8022-3f0e-4691-9a69-2468edb4a37d" />
+
 
 The application is called BitzFind:
 
@@ -30,5 +31,5 @@ The application is available in 7 languages: EN, FR, DE, IT, PT, ES, and RU
 It is portable; no installation is required.
 
 English : 
-<img width="1917" height="1012" alt="Capture d&#39;écran 2026-09-25 121318" src="https://github.com/user-attachments/assets/42abafb3-5ecd-4e74-9c36-53db0222b10e" />
+<img width="1917" height="1017" alt="Capture d&#39;écran 2026-09-25 143444" src="https://github.com/user-attachments/assets/d072cb69-016b-45d0-8232-b0812463a7db" />
 
