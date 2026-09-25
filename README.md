@@ -3,7 +3,7 @@
 
 L'application s'appelle BitzFind :
 
-Ecrite en Rust et multithread. Elle permet de faire des recherche ultra rapide dans vos fichiers : 
+Ecrite en Rust et multithread. Elle permet de faire des recherches ultra rapide dans vos fichiers : 
 
 - Recherche dans son nom un format comme *.zip, *.jpg ect 
 - Recherche dans son nom comme Rapport_statistique.doc ou Facture_client_*.doc
